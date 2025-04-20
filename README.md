@@ -74,9 +74,3 @@ The Churn Prediction in Telecom Industry project revealed key insights:
 - **Machine Learning Insights:** Hyperparameter tuning significantly improved the Logistic Regression model, demonstrated higher precision, recall, accuracy, ROC-AUC, and F1 scores. Achieving an impressive 78% accuracy and recall on the test dataset.
 
 The project has provided valuable insights into customer behavior, churn patterns, and the impact of various factors on customer retention. These findings can inform strategic decisions and customer-focused initiatives within the telecom industry.
-
----
-
-## Author
-
-- [Eileen Ip](https://www.linkedin.com/in/eileen-ip/)
